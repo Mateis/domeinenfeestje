@@ -1,9 +1,7 @@
-# hello feestje
-
 ## Matthijs
-- [Slowly Dying](https://slowlydying.nl)
-- [Wavr](https://wavr.nl)
-- [Domeinenfeestje.nl](https://domeinenfeestje.nl)
-- [Emmerteler](https://emmerteller.nl)
+- <https://slowlydying.nl>
+- <https://wavr.nl>
+- <https://domeinenfeestje.nl>
+- <https://emmerteller.nl>
 
 ## Sophie
